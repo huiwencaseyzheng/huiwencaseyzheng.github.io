@@ -1,0 +1,183 @@
+
+---
+title: "Research"
+---
+
+## Research Overview
+
+My research examines how healthcare regulation,
+market structures, and public policies influence
+organizational behavior, resource allocation,
+healthcare delivery, and access to care.
+
+My work spans three interconnected research
+areas, drawing on health economics, health
+services research, and empirical policy
+evaluation.
+
+## Research Areas
+
+### 1. Healthcare Regulation, Competition, and Organizational Behavior
+
+This area examines how regulatory institutions
+and market competition shape organizational
+incentives, investment decisions, resource
+allocation, and performance in healthcare
+markets.
+
+A central focus of my research is understanding
+when regulatory constraints meaningfully
+influence organizational behavior and when
+market incentives may dominate formal
+regulatory differences.
+
+**Dissertation Research**
+
+*Regulation, Competition, and Hospital Outcomes:
+Three Studies on U.S. Healthcare Markets*
+
+- **Certificate of Need Repeal Impact on Hospital
+  Capital and Labor Inputs: Evidence from
+  New Hampshire**
+  
+  Working Paper
+
+- **Hospital Competition under Different State
+  Policy Environments in the United States**
+  
+  Research in Progress
+
+- **Examining the Relationship between
+  Certificate of Need Laws and Hospital
+  Financial Outcomes in the United States**
+  
+  Research in Progress
+
+### 2. Healthcare Delivery, Organizational Change, and Access
+
+This area examines how changes in healthcare
+organizations, infrastructure, and service
+delivery affect healthcare availability,
+utilization, and access, particularly in
+rural and underserved communities.
+
+**Selected Research**
+
+- **Restructuring Rural Hospital Services:
+  An Early Evaluation of Rural Emergency
+  Hospital Designation**
+  
+  Manuscript Under Review
+
+- **Hospital Closures Increase Emergency
+  Care Travel Time: Rural-Urban Disparities**
+  
+  Published in INQUIRY (2026)
+  
+  [View Article](https://doi.org/10.1177/00469580261454514)
+
+- **Differences in EMS Calls, Delays, and
+  Payer Types in U.S. Southern Border
+  Counties and Non-Border Counties**
+  
+  Published in Prehospital Emergency Care (2026)
+  
+  [View Article](https://doi.org/10.1080/10903127.2026.2735429)
+
+
+### 3. Healthcare Utilization, Care Settings, and Economic Evaluation
+
+This area examines healthcare utilization,
+differences across care settings, and the
+economic implications of healthcare delivery
+and policy changes.
+
+My research includes studies of inpatient,
+observation, and conventional outpatient
+care, as well as economic evaluation
+and evidence synthesis.
+
+**Selected Research**
+
+- **Implications of Outpatient Total Hip and
+  Knee Arthroplasties: A Statewide
+  Population-Based Study from Texas**
+
+  Manuscript Under Review
+
+  This study examines outpatient total hip
+  and knee arthroplasty in Texas, including
+  the distinction between observation status
+  and conventional outpatient care.
+
+- **Recovery After Disruption: Trends in
+  Elective and Non-Elective Inpatient Surgery
+  during and after the COVID-19 Pandemic**
+
+  Manuscript Under Review
+
+- **Cost-effectiveness of Home-Based
+  Telerehabilitation versus Outpatient
+  Rehabilitation after Total Hip Replacement
+  in the United States**
+
+  Working Paper
+
+- **The Impact of Insulin Copayment Caps and
+  Coinsurance on Insulin Use, Adherence,
+  Out-of-Pocket Spending, and Health Care
+  Utilization in the United States:
+  A Systematic Review**
+
+  Manuscript Under Review
+
+---
+
+
+## Methods and Analytical Expertise
+
+My methodological background encompasses
+quantitative health services research,
+health economics, and health policy evaluation.
+
+I use a range of statistical and econometric
+methods to examine healthcare policies,
+organizational behavior, and health service
+outcomes.
+
+My methodological expertise includes:
+
+**Causal Inference and Policy Evaluation**
+
+- Difference-in-Differences (DID)
+- Synthetic Control Methods (SCM)
+- Regression-Based Policy Evaluation
+- Additional training in Instrumental
+  Variables (IV) and Propensity Score
+  Matching (PSM)
+
+**Statistical Modeling and Data Analysis**
+
+- Regression Analysis and Statistical Modeling
+- Longitudinal and Panel Data Analysis
+- Healthcare Administrative Data Analysis
+- Sensitivity and Robustness Analyses
+
+**Economic Evaluation and Evidence Synthesis**
+
+- Cost-Effectiveness Analysis
+- Systematic Reviews and Evidence Synthesis
+
+My research involves the construction and
+analysis of healthcare datasets, selection
+of appropriate comparison groups, assessment
+of identifying assumptions, and evaluation
+of the robustness of empirical findings.
+
+**Statistical Software:** Stata, R
+
+
+---
+
+[Publications](publications.qmd) |
+[Curriculum Vitae](cv.qmd)

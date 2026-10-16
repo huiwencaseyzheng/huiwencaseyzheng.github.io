@@ -1,0 +1,92 @@
+
+---
+title: "Huiwen (Casey) Zheng"
+subtitle: "PhD Candidate in Health Services Research"
+---
+
+**Health Economics Cognate**
+
+School of Public Health  
+Texas A&M University
+
+[Email](mailto:caseyzheng@tamu.edu) |
+[Curriculum Vitae](cv.qmd)
+
+---
+
+## About Me
+
+I am a PhD candidate in Health Services Research,
+specializing in health economics, at
+Texas A&M University.
+
+My research examines how healthcare regulation,
+market structures, and public policies shape
+organizational behavior, resource allocation,
+and access to care. I am particularly interested
+in how regulatory constraints and market
+incentives influence the decisions and
+performance of healthcare organizations.
+
+My current research focuses on hospital
+regulation, competition, and organizational
+responses to policy changes. I use causal
+inference and quasi-experimental methods,
+including difference-in-differences and
+synthetic control methods, to evaluate health
+policies and their consequences for healthcare
+organizations and communities.
+
+Prior to my doctoral studies, I worked in
+regulatory policy and intelligence at
+Johnson & Johnson, Daiichi Sankyo, and
+Medtronic. This professional experience
+informs my broader interest in how regulatory
+environments influence economic decisions
+and organizational performance across
+healthcare and life sciences.
+
+## Research Interests
+
+- Health Economics
+- Healthcare Regulation and Competition
+- Hospital Markets and Organizational Behavior
+- Health Policy Evaluation
+- Healthcare Access and Delivery
+
+## Selected Publications
+
+**Zheng, H.**, Horel, S., & Blackburn, C. C.
+(2026).
+
+Hospital Closures Increase Emergency Care
+Travel Time: Rural-Urban Disparities.
+
+*INQUIRY: The Journal of Health Care Organization,
+Provision, and Financing*, 63.
+
+[View Article](https://doi.org/10.1177/00469580261454514)
+
+---
+
+Blackburn, C. C., **Zheng, H.**, & Andreyeva, E.
+(2026).
+
+Differences in EMS Calls, Delays, and Payer
+Types in U.S. Southern Border Counties and
+Non-Border Counties.
+
+*Prehospital Emergency Care*, 1–11.
+
+[View Article](https://doi.org/10.1080/10903127.2026.2735429)
+
+---
+
+[View All Research](research.qmd)
+
+## Contact
+
+School of Public Health  
+Texas A&M University
+
+Email: [caseyzheng@tamu.edu](mailto:caseyzheng@tamu.edu)
