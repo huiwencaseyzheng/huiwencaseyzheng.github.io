@@ -179,5 +179,4 @@ of the robustness of empirical findings.
 
 ---
 
-[Publications](publications.qmd) |
 [Curriculum Vitae](cv.qmd)
