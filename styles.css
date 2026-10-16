@@ -1,0 +1,103 @@
+
+/* Overall appearance */
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  color: #263746;
+  font-size: 17px;
+  line-height: 1.75;
+  background-color: #ffffff;
+}
+
+/* Navigation bar */
+
+.navbar {
+  background-color: #ffffff !important;
+  border-bottom: 1px solid #e5e9ed;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  color: #263746 !important;
+}
+
+.navbar .nav-link {
+  color: #263746 !important;
+  font-weight: 500;
+}
+
+/* Main content width */
+
+main.content {
+  max-width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Page headings */
+
+h1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  color: #263746;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 1.55rem;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  color: #263746;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-top: 1.8rem;
+}
+
+/* Paragraph spacing */
+
+p {
+  margin-bottom: 1.2rem;
+}
+
+/* Links */
+
+a {
+  color: #28658b;
+}
+
+a:hover {
+  color: #174765;
+}
+
+/* Section dividers */
+
+hr {
+  border-color: #e5e9ed;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+/* Academic website customization */
+
+.navbar {
+  background-color: #f0f4f8 !important;
+  border-bottom: 3px solid #17365d !important;
+}
+
+#title-block-header .title {
+  color: #17365d;
+  font-size: 2.8rem;
+  font-weight: 700;
+}
+
+h2 {
+  color: #17365d;
+  border-bottom: 1px solid #dce3ea;
+  padding-bottom: 10px;
+}
